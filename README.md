@@ -234,7 +234,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hybrid-ids.git
+git clone https://github.com/Ayush-2404/Sentinel_IDS.git
 cd hybrid-ids
 ```
 
