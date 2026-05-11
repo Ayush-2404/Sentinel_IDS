@@ -235,7 +235,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Ayush-2404/Sentinel_IDS.git
-cd hybrid-ids
+cd Sentinel_IDS
 ```
 
 ### 2. Set Up the Database
